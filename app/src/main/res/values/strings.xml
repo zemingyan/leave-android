@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">今日校园</string>
+    <string name="hostAndPort">http://106.58.209.157:85</string>
+    <drawable name="bkcolor">#FFFFFF</drawable>
+   <!-- <string name="url">http://106.58.209.157:83/file2tomcat</string>-->
+</resources>
